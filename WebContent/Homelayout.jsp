@@ -1,0 +1,1 @@
+<img src="\WebContent\WEB-INF\images\verizon.jpg"/>

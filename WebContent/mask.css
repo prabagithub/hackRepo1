@@ -1,0 +1,50 @@
+.content{
+position: absolute;
+width: 980px;
+left: 50%;
+margin-left: -490px;
+top: 17%;
+padding: 0px;
+}
+
+h4{
+font-family: "Neue Haas Grotesk Display",sans-serif;
+font-size: 2.571em;
+line-height: 1.0555;
+margin: 0px;
+padding: 0px;
+font-weight: 700;
+color: #CD040B;
+}
+
+.logintable{
+margin-left: 300px;
+margin-top: 50px;
+}
+
+#maskButton{
+	background-color: #A80309;
+border: 0px none;
+box-sizing: border-box;
+color: #FFF;
+cursor: pointer;
+display: block;
+font-family: NeueHaasGroteskDisplayBold,Arial,Helvetica,sans-serif;
+font-size: 16px;
+font-weight: normal;
+height: 30px;
+margin: 40px 0px 0px;
+padding: 0px 30px;
+position: relative;
+text-align: left;
+width: 100%;
+}
+
+.textStyle{
+	font-family: NeueHaasGroteskDisplayBold,Arial,Helvetica,sans-serif;
+	font-size: 1.5em;
+}
+
+.border_CC {
+    border: 1px solid #CCC;
+}
