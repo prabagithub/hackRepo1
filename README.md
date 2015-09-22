@@ -7,3 +7,10 @@ git add .
 git commit -m 'First commit'
 git remote add origin https://github.com/prabagithub/hackRepo1.git
 git push -u origin master
+
+Git to Eclipse
+
+Open git view
+slect clone a repositor
+paste repo URL 
+

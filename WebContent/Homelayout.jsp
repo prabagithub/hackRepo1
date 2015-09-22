@@ -1,1 +1,1 @@
-<img src="\WebContent\WEB-INF\images\verizon.jpg"/>
+<img src="/WebContent/WEB-INF/images/verizon.jpg"/>
