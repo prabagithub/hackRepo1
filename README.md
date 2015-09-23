@@ -12,5 +12,5 @@ Git to Eclipse
 
 Open git view
 slect clone a repositor
-paste repo URL 
+paste repo url
 
